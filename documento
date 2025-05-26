@@ -1,0 +1,4 @@
+cd "D:\System\Downloads\ANDRE SPRINT 1.pdf"
+git add ANDRE SPRINT.pdf
+git commit -m "Adiciona arquivo PDF do projeto"
+git push origin main
